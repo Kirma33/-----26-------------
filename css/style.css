@@ -201,7 +201,7 @@ header {
 
 .cond {
     padding-top: 4vh;
-    background: url(/assets/images/fone/Image\ bg\ 3.png);
+    background-image: url(/assets/Image\ bg\ 3.png);
     background-size: 100% 100%;
     background-position: 100% 100%;
     background-repeat: no-repeat;
